@@ -1,6 +1,6 @@
 # Nuclear Binding Energy
 
-This repository contains a simple python program for calculating binding energy of a Nucleus.
+This repository contains a simple python program for calculating binding energy of a Nucleus. (codes to be uploaded)
 
 ## Graph 
 This contains binding energy per nucleons. Plotted using the data from
